@@ -1,1 +1,1 @@
-# gottgam.github.io
+# 글을 쓰며 디자인하는 개발자.
