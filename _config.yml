@@ -20,7 +20,7 @@ title                    : "gottgamCode"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "gottgamCode"
-description              : "playground for me."
+description              : "playground for me"
 url                      : "https://camwalker1115.github.io" # the base hostname & protocol for your site
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
