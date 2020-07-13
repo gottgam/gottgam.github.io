@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "gottgam(곶감)"
 description              : "Student developer, guitarist, writer, designer."
-url                      : "https://gottgam.github.io"
+url                      : "https://camwalker1115.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Cameron"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "major: Service Design Engineering, Art & Tecnnology"
   location         : "on Earth, located in multidimensional space"
   email            :
   links:
