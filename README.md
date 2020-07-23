@@ -3,7 +3,7 @@ to a personal blog.
 
 This is Suyeon Park who lives in Seoul. Currently learning service design engineering and art & technology in Sungshin University. 
 
-Right now I'm Studying machine learning, artificial inteligence, data structure on my own.
+Right now I'm studying machine learning, artificial inteligence, data structure on my own.
 
 In fact, illustration, writing science fiction and newspaper column, playing the electric guitar in rock band are also my interests.
 
