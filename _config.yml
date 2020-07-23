@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "gottgamCode"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "gottgamCode"
+name                     : "Cameron Park(박수연)"
 description              : "playground for me"
 url                      : "https://gottgam.github.io" # the base hostname & protocol for your site
 baseurl                  : ""
