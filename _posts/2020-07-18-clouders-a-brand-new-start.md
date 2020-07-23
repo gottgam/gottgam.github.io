@@ -1,6 +1,6 @@
 ---
 title: "[시작글] 드디어 클라우더스 활동을 시작하다."
-category: CLOUDERs
+category: [CLOUDERs]
 ---
 
 'CLOUDERs' 카테고리는 2020년 7월부터 필자가 위대하고 거대한 다국적 기업 IBM에서 '클라우더스'로 활동하면서 IBM Cloud에 대해 깨닫고 사용법을 익히는 과정을 담은 컨테이너다. 
