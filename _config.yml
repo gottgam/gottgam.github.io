@@ -20,7 +20,7 @@ title                    : "gottgamCode"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cameron Park(박수연)"
-description              : "개발하고 디자인하고 소설을  대학생"
+description              : "개발하고, 디자인하고, 시와 소설을 쓰는 대학생"
 url                      : "https://gottgam.github.io" # the base hostname & protocol for your site
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
