@@ -1,5 +1,3 @@
-2020-08-23-clouders-building-cloud-native-and-multicloud-apps.md
-
 ---
 title: "[클라우더스] Building Cloud Native and Multicloud Application 강의를 수료하다."
 categories: [CLOUDERs]
