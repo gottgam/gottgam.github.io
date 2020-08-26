@@ -21,7 +21,7 @@ IBM 클라우더스(C:LOUDERs)로 활동하면서 새롭게 내 흥미를 불러
 당연한 소리지만 IBM Cloud 계정이 있어야 한다. 미리 로그인해 이 페이지에서 오류가 뜨지 않도록 하자.(필자는 랩에서 일차적으로 로그인을 해야 한다는 것을 모른 채 입장해서 오류를 겪었다.)  
 로그인을 끝냈다면 CLI에 이 명령어를 입력하자.   
 ``` bash
-Ibmcloud login --sso -a cloud.ibm.com -r us-south --apikey bc493e50b2f206dc0b4ada2dc5b61328
+ibmcloud login --sso -a cloud.ibm.com -r us-south --apikey bc493e50b2f206dc0b4ada2dc5b61328
 ```
 ![이미지](https://user-images.githubusercontent.com/50163676/91159962-c852a900-e703-11ea-8275-8c16008a03cc.png "클라우드 로그인 결과창")  
 여기서의 API 키는 인터랙티브 랩 측에서 제공하는 것이다. 개인 컴퓨터에서 실습을 진행한다면 IBM Cloud와 쿠버네티스 CLI를 설치한 상태여야 하지만, 이 랩 안에 존재하는 터미널에는 기본적으로 깔려 있으므로 설치할 필요 없다. 로컬 컴퓨터에 설치하는 방법은 다른 게시물을 통해 설명할 것이다.    
@@ -46,14 +46,14 @@ Deploy라는 단어가 하도 많이 등장해서 그러려니 하고 넘겼는�
 
 + *아까의 guestbook을 작동시킨다.*    
 ``` bash
-Kubectl create deployment guestbook --image=ibmcom/guestbook:v1
+kubectl create deployment guestbook --image=ibmcom/guestbook:v1
 ```
 create 명령어는 단순히 애플리케이션 컨테이너를 갖고 있는 포드만 출력하지 않고 포드의 생명줄을 관리하는 deployment 리소스들도 함께 보여준다.
 ![이미지](https://user-images.githubusercontent.com/50163676/91160018-da344c00-e703-11ea-8511-aecdaee3d651.png "게스트북 작동!")    
  
 + *잘 작동되는지 확인해 보자.*
 ``` bash
-Kubectl get pods
+kubectl get pods
 ```
 ![이미지](https://user-images.githubusercontent.com/50163676/91160023-ddc7d300-e703-11ea-9e87-d386f3cd6d03.png "예시 애플리케이션 작동시키기")  
 리눅스 명령어는 직관적이어서 편한 것 같다.(배우지 않았기에 이런 말을 할 수 있을지도 모른다.) 이 명령어까지 출력하면 guestbook 어쩌고저쩌고가 running 상태라고 출력할 것이다.    
@@ -67,7 +67,7 @@ kubectl expose deployment guestbook --type="NodePort" --port=3000
 
 이제 *워커 노드에서 사용되는 포트를 찾으려면 이 서비스를 테스트해야 한다.*  
 ``` bash
-Kubectl get service guestbook
+kubectl get service guestbook
 ```
 ![이미지](https://user-images.githubusercontent.com/50163676/91160041-e3bdb400-e703-11ea-9498-06c33a3cf232.png "노드 포트 번호 찾기")  
 출력창의 PORT(S)에서 노드 포트의 번호를 찾을 수 있다. 내 결과 같은 경우에는 31208이다. 이는 실행하는 사람에 따라 다르므로 그대로 출력되지 않았다고 해서 불안해할 필요는 없다.    
