@@ -1,5 +1,5 @@
 ---
-title: "내 삶에 날아든 벌새"
+title: "초소형 머신러닝 TinyML-내 삶에 날아든 벌새"
 categories: [CLOUDERs]
 ---
 
