@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "gottgamCode"
+title                    : "곶감코드"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Cameron Park(박수연)"
+name                     : "Suyeon Park"
 description              : "개발하고, 디자인하고, 시와 소설을 쓰는 대학생"
 url                      : "https://gottgam.github.io" # the base hostname & protocol for your site
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gottgam/gottgam.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://user-images.githubusercontent.com/50163676/88633924-a3611b00-d0f0-11ea-9bf9-1098323f9399.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "곶감"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Student developer"
-  location         : "대륙 지각과 대기권 사이 어딘가"
+  bio              : "조화로운 전문가"
+  location         : "Seoul, KR"
   email            :
   links:
     - label: "Email"
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: # true
+      read_time: true
       comments: true
       share: true
       related: true
