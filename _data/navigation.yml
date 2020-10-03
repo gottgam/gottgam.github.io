@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: https://gottgam.github.io/
+  - title: "About"
+  url: https://mmistakes.github.io/gottgam/about/
+  - title: "IT"
+  url: /year-archive/
+  - title: "Sample Collections"
+  url: /collection-archive/
+  - title: "Sitemap"
+  url: /sitemap/
