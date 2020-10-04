@@ -95,9 +95,10 @@ analytics:
 author:
   name             : "gottgam"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "being an harmonious expert"
+  bio              : "Suyeon Park,
+  being an harmonious expert."
   location         : "Seoul,KR"
-  email            : suyeonbb8@gmail.com
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
