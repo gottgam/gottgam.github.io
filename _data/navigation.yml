@@ -1,12 +1,9 @@
-# main links
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
 main:
   - title: "Home"
     url: https://gottgam.github.io/
-  #- title: "About"
-  #url: https://mmistakes.github.io/gottgam/about/
-  #- title: "IT"
-  #url: /year-archive/
-  #- title: "Sample Collections"
-  #url: /collection-archive/
-  #- title: "Sitemap"
-  #url: /sitemap/
+  - title: "About"
+    url: /about/
+  - title: "Archives"
+    url: /archives/
