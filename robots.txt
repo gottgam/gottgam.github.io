@@ -1,4 +1,7 @@
+---
+layout: null
+---
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: http://dveamer.github.io/sitemap.xml
+Sitemap: {{ "http://dveamer.github.io/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}
