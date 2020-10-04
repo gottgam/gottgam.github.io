@@ -16,8 +16,8 @@
 title: gottgamCode
 author: Cameron
 description: being an harmonious expert
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gottgam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://gottgam.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
