@@ -1,11 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Home"
+    url: https://gottgam.github.io/
+    description: Return to the main page.
+  - title: "About"
+    url: https://gottgam.github.io/about/
+    description: Want to know?
+  - title: "Posts"
+    url: /year-archive/
+    description: All posts, all in one place.
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
