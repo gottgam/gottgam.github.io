@@ -1,6 +1,16 @@
 ---
 excerpt: "Hello, world!"
-layout: default
+? layouts_gallery
+:
+  #   - url: /assets/images/p.png
+  #   image_path: /assets/images/mm-layout-splash.png
+#    alt: "splash layout example"
+##   image_path: /assets/images/mm-layout-single-meta.png
+#   alt: "single layout with comments and related posts"
+#  - url: /assets/images/mm-layout-archive.png
+#    image_path: /assets/images/mm-layout-archive.png
+#   alt: "archive layout example"
+last_modified_at: 2020-09-07
 title: "About"
 permalink: /about/
 ---
