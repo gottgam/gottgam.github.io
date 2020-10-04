@@ -129,7 +129,7 @@ footer:
       url: "https://www.facebook.com/rollingbb8"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:"https://github.com/gottgam"
+      url: "https://github.com/gottgam"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
