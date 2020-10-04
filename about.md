@@ -1,6 +1,6 @@
 ---
 excerpt: "Hello, world!"
-layout: posts
+layout: single
 title: "About"
 permalink: /about/
 ---
