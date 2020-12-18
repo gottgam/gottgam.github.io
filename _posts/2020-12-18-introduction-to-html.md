@@ -3,6 +3,7 @@ title: "Introduction to HTML"
 categories: [HTML]
 ---
 ### What is HTML?  
+
 HTML stands for *Hyper Text Markup Language*.
 	+ It defines the structure which tells what has to come where(describes the structure of a Web page).
 	+ Its elements tell the browser how to display the content, label pieces of content.
