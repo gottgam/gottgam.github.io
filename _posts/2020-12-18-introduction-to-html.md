@@ -40,7 +40,7 @@ It looks like this: ```<tagname> Content </tagname>```
 + The ```<h1>``` element: defines a large heading
 + The ```<p>``` element: defines a paragraph
 
- ### Browser's Role  
+### Browser's Role  
 + To read HTML documents and display them.
 + A browser does not display the HTML tags, but uses them to determine how to display the document.
 + The content inside the ```<body>``` section will be displayed in a browser.
