@@ -4,8 +4,8 @@ categories: [HTML]
 ---
 ### What is HTML?  
 HTML stands for *Hyper Text Markup Language*.
-	+ It defines the structure which tells what has to come where(describes the structure of a Web page).
-	+ Its elements tell the browser how to display the content, label pieces of content.
++ It defines the structure which tells what has to come where(describes the structure of a Web page).
++ Its elements tell the browser how to display the content, label pieces of content.
 
 ### Basic Example  
 
@@ -28,17 +28,17 @@ And this is the result:<BR/>
 
 ### An HTML Element  
 An HTML element is defined by a start tag, some content, and an end tag. 
-It looks like this: ```<tagname> Content </tagname>```
-	+ Some HTML elements like the ```<br>``` element have no content. (So they are called 'empty elements', and do not have an end tag.)
-	+ The ```<!DOCTYPE html>``` declaration: defines that this document is an HTML5 document
-	+ The ```<html>``` element: the root element of and HTML page
-	+ The ```<head>``` element: contains meta information about the page
-	+ The ```<title>``` element:
-			- specifies a title for the HTML page
-			- is shown in the browser's title bar or in the page's tab
-	+ The ```<body>``` element: a container for all the visible contents
-	+ The ```<h1>``` element: defines a large heading
-	+ The ```<p>``` element: defines a paragraph
+It looks like this: ```<tagname> Content </tagname>```  
++ Some HTML elements like the ```<br>``` element have no content. (So they are called 'empty elements', and do not have an end tag.)
++ The ```<!DOCTYPE html>``` declaration: defines that this document is an HTML5 document
++ The ```<html>``` element: the root element of and HTML page
++ The ```<head>``` element: contains meta information about the page
++ The ```<title>``` element:
+	- specifies a title for the HTML page
+	- is shown in the browser's title bar or in the page's tab
++ The ```<body>``` element: a container for all the visible contents
++ The ```<h1>``` element: defines a large heading
++ The ```<p>``` element: defines a paragraph
 
  ### Browser's Role  
 + To read HTML documents and display them.
