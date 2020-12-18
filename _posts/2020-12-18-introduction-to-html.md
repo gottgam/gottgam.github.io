@@ -2,6 +2,9 @@
 title: "Introduction to HTML"
 categories: [HTML]
 ---
+(If you want Korean version(한국어로 읽고 싶으시다면): https://blog.naver.com/camwalker1115/222178109373)  
+
+
 ### What is HTML?  
 HTML stands for *Hyper Text Markup Language*.
 + It defines the structure which tells what has to come where(describes the structure of a Web page).
