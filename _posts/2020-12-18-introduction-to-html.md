@@ -34,7 +34,7 @@ An HTML element is defined by a start tag, some content, and an end tag.
 It looks like this: ```<tagname> Content </tagname>```  
 + Some HTML elements like the ```<br>``` element have no content. (So they are called 'empty elements', and do not have an end tag.)
 + The ```<!DOCTYPE html>``` declaration: defines that this document is an HTML5 document
-+ The ```<html>``` element: the root element of and HTML page
++ The ```<html>``` element: the root element of the page
 + The ```<head>``` element: contains meta information about the page
 + The ```<title>``` element:
 	- specifies a title for the HTML page
