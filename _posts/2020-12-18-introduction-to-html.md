@@ -3,9 +3,7 @@ title: "Introduction to HTML"
 categories: [HTML]
 ---
 ### What is HTML?  
-
 HTML stands for *Hyper Text Markup Language*.
-
 	+ It defines the structure which tells what has to come where(describes the structure of a Web page).
 	+ Its elements tell the browser how to display the content, label pieces of content.
 
@@ -30,8 +28,7 @@ And this is the result:<BR/>
 
 ### An HTML Element  
 An HTML element is defined by a start tag, some content, and an end tag. 
-
-	It looks like this: ```<tagname> Content </tagname>```
+It looks like this: ```<tagname> Content </tagname>```
 	+ Some HTML elements like the ```<br>``` element have no content. (So they are called 'empty elements', and do not have an end tag.)
 	+ The ```<!DOCTYPE html>``` declaration: defines that this document is an HTML5 document
 	+ The ```<html>``` element: the root element of and HTML page
@@ -44,6 +41,6 @@ An HTML element is defined by a start tag, some content, and an end tag.
 	+ The ```<p>``` element: defines a paragraph
 
  ### Browser's Role  
-	+ To read HTML documents and display them.
-	+ A browser does not display the HTML tags, but uses them to determine how to display the document.
-	+ The content inside the ```<body>``` section will be displayed in a browser.
++ To read HTML documents and display them.
++ A browser does not display the HTML tags, but uses them to determine how to display the document.
++ The content inside the ```<body>``` section will be displayed in a browser.
