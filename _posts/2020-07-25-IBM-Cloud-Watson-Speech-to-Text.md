@@ -1,6 +1,7 @@
 ---
 title: "[IBM 클라우드] Speech-to-Text 사용해 보기, 그리고 HAL"
 comments: true
+author-profile: true
 categories: [CLOUDERs]
 ---
 '2001 스페이스 오딧세이' SF 소설 시리즈를 아는가?<BR/>
