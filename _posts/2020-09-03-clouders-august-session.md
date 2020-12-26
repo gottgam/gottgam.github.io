@@ -1,5 +1,6 @@
 ---
 title: "[클라우더스] 8월 타운홀, 지나온 길과 걸어갈 길"
+comments: true
 categories: [CLOUDERs]
 ---
 ![이미지](https://user-images.githubusercontent.com/50163676/92095042-1f493400-ee10-11ea-966d-a3049d597d45.jpeg "8월-타운홀-필기")  
