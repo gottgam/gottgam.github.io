@@ -1,5 +1,6 @@
 ---
 title: "[클라우더스] IBM Cloud Essentials 강의를 수료하다."
+comments: true
 categories: [CLOUDERs]
 ---
 
