@@ -1,6 +1,7 @@
 ---
 title: "IBM Cloud에서 쿠버네티스 사용하기 2탄"
 comments: true
+author-profile: true
 categories: [CLOUDERs]
 ---
 
