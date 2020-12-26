@@ -1,6 +1,7 @@
 ---
 title: "[파이썬] 아나콘다와 텐서플로우 설치, 재설치하기- Mac OS"
 comments: true
+author-profile: true
 categories: [python]
 ---
 
