@@ -1,7 +1,7 @@
 ---
 title: "Introduction to HTML"
 comments: true
-author: gottgam
+author-profile: true
 categories: [HTML]
 ---
 (If you want Korean version(한국어로 읽고 싶으시다면): <https://blog.naver.com/camwalker1115/222178109373>)  
