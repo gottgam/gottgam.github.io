@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "gottgam"
-  avatar           : "/assets/images/프로필_사진_곶감.jpg"
+  # avatar           : "/assets/images/프로필_사진_곶감.jpg"
   bio              : "Suyeon Park"
   location         : "Seoul,KR"
   email            : 
