@@ -1,6 +1,7 @@
 ---
 title: "[IBM Cloud] 쿠버네티스에 컨테이너 이미지를 deploy하기"
 comments: true
+author-profile: true
 categories: [CLOUDERs]
 ---
 
