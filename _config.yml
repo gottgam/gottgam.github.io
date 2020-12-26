@@ -12,20 +12,20 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
 title                    : "gottgamCode"
 title_separator          : "|"
-subtitle                 : "Suyeon's playground"
-name                     : "Suyeon Park"
-description              : "Playground"
+subtitle                 : "Suyeon's Playground"
+name                     : "Cameron"
+description              : "Tech Blog"
 url                      : "https://gottgam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gottgam/gottgam.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,17 +95,16 @@ analytics:
 author:
   name             : "gottgam"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Suyeon Park,  
-  becoming an harmonious expert."
+  bio              : "Suyeon Park"
   location         : "Seoul,KR"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "myself@suyeonpark.info"
-    #- label: "Medium"
-      #icon: "fas fa-fw fa-link"
-      #url: "https://medium.com/@rollingbb8"
+    - label: "Medium"
+      icon: "fas fa-fw fa-link"
+      url: "https://brunch.co.kr/@rollingbb8"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/msCameronPark"
