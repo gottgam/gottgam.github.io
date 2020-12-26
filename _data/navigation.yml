@@ -4,12 +4,12 @@ main:
     url: https://gottgam.github.io/
     description: Return to the main page.
   - title: "About"
-    url: https://gottgam.github.io/about/
-    description: Want to know?
+    url: /about/
+    description: Who's gottgam?
   - title: "Category"
-    url: https://gottgam.github.io/category/
+    url: /categories/
     description: All posts, all in one place.
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Archive"
+    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
