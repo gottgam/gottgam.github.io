@@ -1,5 +1,6 @@
 ---
 title: "[시작글] 드디어 클라우더스 활동을 시작하다."
+comments: true
 category: [CLOUDERs]
 ---
 
