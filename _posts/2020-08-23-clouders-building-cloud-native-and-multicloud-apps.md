@@ -1,5 +1,6 @@
 ---
 title: "[클라우더스] Building Cloud Native and Multicloud Application 강의를 수료하다."
+comments: true
 categories: [CLOUDERs]
 ---
 
