@@ -1,6 +1,7 @@
 ---
 title: "Welcome to My Blog!"
 comments: true
+author_profile: true
 categories: Lifestyle
 ---
 
