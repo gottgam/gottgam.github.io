@@ -1,6 +1,7 @@
 ---
 title: "IBM Cloud에서 Swift 사용하기"
 comments: true
+author-profile: true
 categories: [CLOUDERs]
 ---
 
