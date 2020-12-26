@@ -1,5 +1,6 @@
 ---
 title: "초소형 머신러닝 TinyML-내 삶에 날아든 벌새"
+comments: true
 categories: [CLOUDERs]
 ---
 
