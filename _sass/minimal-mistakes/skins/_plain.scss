@@ -1,0 +1,23 @@
+/* ==========================================================================
+   (Custom) Plain skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #ffffff !default;
+$text-color: #484848 !default;
+$muted-text-color: #bcbcbc !default;
+$primary-color: #F25252 !default;
+$border-color: mix(#fff, #05A696, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #F25252 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
