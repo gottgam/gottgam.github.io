@@ -9,7 +9,7 @@ main:
   - title: "Category"
     url: /categories/
     description: All posts, all in one place.
-  - title: "Archive"
-    url: /collection-archive/
+  - title: "Portfolio"
+    url: /Portfolio-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
