@@ -10,6 +10,6 @@ main:
     url: /categories/
     description: All posts, all in one place.
   - title: "Portfolio"
-    url: /portfolio-archive/
+    url: /portfolio/
   # - title: "Sitemap"
   #   url: /sitemap/
