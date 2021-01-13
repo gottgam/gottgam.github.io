@@ -3,18 +3,18 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: Poor Fellow
     image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+      src: /assets/img/work/poor-fellow.png
+      alt: Poor Fellow by Cameron Park
+    description: New Media Art project at June, 2020. Made with Adobe Aero, Unity, and Fusion 360. Displayed in Gangnam-gu, Seoul, South Korea. | 'Wanderers in urban area.'
+  - title: COVID-19
     image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      src: /assets/img/work/COVID-19.png
+      alt: COVID-19 by Cameron Park
+    description: Typography project at April, 2020. Made with Adobe Illustrator. | 'This is the world we live in.'
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+Displaying my work, my interests, my projects.
 <br />
 <br />
