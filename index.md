@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This is Cameron's little blog.
+  *Willkommen!* This is a little blog by Cameron.
 </p>
 
 <p>
-  You're fully welcomed here.
+  Enjoy.
 </p>
