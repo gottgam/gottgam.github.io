@@ -1,10 +1,6 @@
 # Welcome
-to a personal blog.
+to the personal blog of Suyeon Park, who enjoys writing novel and codes.
 
-This is Suyeon Park who lives in Seoul. Currently learning service design engineering and art & technology in Sungshin University. 
+Currently I'm learning 'Service design engineering' and 'Art & Technology' in Sungshin University, South Korea. 
 
-Right now I'm studying machine learning, artificial inteligence, data structure on my own.
-
-In fact, illustration, writing science fiction and newspaper column, playing the electric guitar in rock band are also my interests.
-
-Hope there are no more stereotypes against a person who enjoys a lot of different fields at the same time.
+In these days, I'm studying data science, quantum computing, and building websites on my own.

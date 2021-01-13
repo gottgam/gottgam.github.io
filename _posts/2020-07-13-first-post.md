@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Welcome to My Blog!"
-date: 2020-07-13 12:26:28 -0400
+comments: true
+author_profile: true
 categories: Lifestyle
 ---
 
