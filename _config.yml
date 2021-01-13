@@ -20,11 +20,11 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: me@suyeonpark.info
+      link: mailto:me@suyeonpark.info
+    # - name: WeChat
+      # value: YourWeChatUsername
+      # link: "#"
   follow:
     - name: Twitter
       link: http://twitter.com/rollingbb8
@@ -32,13 +32,13 @@ footer:
     # - name: Facebook
       # link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/suyeonparkbb8
     - name: GitHub
       link: http://github.com/gottgam
     - name: Dribbble
       link: https://dribbble.com/rollingbb8
-    - name: RSS
-      link: /feed.xml
+    # - name: RSS
+      # link: /feed.xml
 
 # Build settings
 markdown: kramdown
