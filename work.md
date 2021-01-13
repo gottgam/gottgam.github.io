@@ -10,7 +10,7 @@ items:
     description: (July 2020) Contemporary Art & Technology Project | using AR | was located in Gangnam-gu, Seoul, South Korea.
   - title: Unflatten
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/covid-19.png
       alt: Unflatten
     description: (April 2020) Typography Project | using Illustrator | 
 ---
