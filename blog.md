@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+I'm Cameron Park, currently staying in Seoul, South Korea.
 <br />
