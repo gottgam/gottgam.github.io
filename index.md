@@ -1,12 +1,12 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: profile
+  src: /assets/img/profile-pic.png
+  alt: dog by Cameron Park
 ---
 
 <p>
-  *Willkommen!* This is a little blog by Cameron.
+  This is a little blog by Cameron.
 </p>
 
 <p>
