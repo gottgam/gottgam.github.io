@@ -1,8 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: Cameron Park
+  src: /assets/img/profile-pic.jpeg
+  alt: Autumn by Cameron Park
 ---
 
 <p>
