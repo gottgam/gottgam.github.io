@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+     <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% for post in page.posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</div>
