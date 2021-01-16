@@ -1,8 +1,13 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
 
-          <u1 class = "posts-list">
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+            <u1 class = "posts-list">
             
             {% assign category = page.category | default: page.title %}
             {% for post in site.categories[category] %}
@@ -15,6 +20,15 @@ layout: default
             {%  endfor  %}
           </u1>
           
+      </div>
+    </div>
+
+    {% include footer.html %}
+    
+    {% include foot.html %}
+  </body>
+</html>
+ 
           <!--<ul class="taxonomy__index">
             {% for i in (1..categories_max) reversed %}
               {% for category in site.categories %}
