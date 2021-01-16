@@ -15,7 +15,7 @@ header:
       slug: /
     - name: Work
     - name: Blog
-    - name: Tags
+    - name: Categories
 
 footer:
   show_powered_by: true
