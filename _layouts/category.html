@@ -10,6 +10,7 @@
         <div class="categories">
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
+          
             <u1 class = "posts-list">
             
             {% assign category = page.category | default: page.title %}
@@ -22,6 +23,20 @@
               </li>
             {%  endfor  %}
           </u1>
+          
+          <class="site-category">
+            <u1>
+              {% assign pages_list = site.pages %}
+                {% for node in pages_list %}
+                  {% if node.title != null %}
+           
+                    <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
+                    href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                   {% endif %}
+                 {% endif %}
+            {% endfor %}
+    
+</ul>
         </div>
       </div>
     </div>
