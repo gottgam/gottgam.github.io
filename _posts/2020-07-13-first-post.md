@@ -2,7 +2,7 @@
 title: "Welcome to My Blog!"
 comments: true
 author_profile: true
-categories: Lifestyle
+categories: lifestyle
 ---
 
 *신기하지만 어렵다, 그리고 신기하다! 재밌게 운영해 보자.*
