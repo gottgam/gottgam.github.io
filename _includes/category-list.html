@@ -1,21 +1,15 @@
-{% case site.categories.type %}
-{% endcase %}
-
-{% if site.categories.path %}
-  {% comment %}
-    <!-- Sort alphabetically regardless of case e.g. a B c d E -->
-  {% endcomment %}
-  {% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}|{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-  {% assign category_hashes = page_categories | split: ',' | sort %}
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].categories_label | default: "Categories:" }} </strong>
-    <span itemprop="keywords">
-    {% for hash in category_hashes %}
-      {% assign keyValue = hash | split: '|' %}
-      {% capture category_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
-      <a href="{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path | relative_url }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+<header class="site-category">
+  <ul>
+    
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "category" %}
+          <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
+          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+        {% endif %}
+      {% endif %}
     {% endfor %}
-    </span>
-  </p>
-{% endif %}
+    
+</ul>
+</header>
