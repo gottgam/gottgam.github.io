@@ -3,7 +3,7 @@ layout: post
 title: "Fun Fact 01"
 blurb: "Learning a prefix and a suffix through a fun fact"
 comments: true
-categories: [Lifestyle]
+categories: [lifestyle]
 ---
 *A prefix* is a letter or group of letters, that can be added to __the beginning__ of a word to make a new word. *This is not a fun fact.*<br />
 *A suffix* is a letter of group of letters, that can be added to __the end__ of a word to make a new word. *This is not a fun fact, yes.*<br />
