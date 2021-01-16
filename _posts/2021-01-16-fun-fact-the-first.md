@@ -27,7 +27,8 @@ They have meanings, of course.<br />
 <br />
 
 Now we are able to guess what the heck this word means. <br />
-A belief + a person + an opposite + a negative thoughts on phenomenon, etc. + establishment = ? <br />
+A belief + a person + an opposite + a negative thoughts on phenomenon, etc. + establishment = ? <br /><br />
+
 Here is a definition from Cambridge Learner's Dictionary: <br/>
 *opposition to the belief that there should not be an official relationship between a country's government and its national Chruch* <br /><br />
 
