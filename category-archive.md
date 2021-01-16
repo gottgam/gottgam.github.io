@@ -1,7 +1,7 @@
 ---
+title: "Posts by Category"
 layout: category
-title: Tags
-slug: /tags
+slug: /categories
 ---
 
 View precious posts with more comfort.<br />
