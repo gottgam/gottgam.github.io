@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-layout: blog
+layout: default
 slug: /categories
 ---
 
