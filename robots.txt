@@ -1,4 +1,4 @@
 User-agent: *
  Allow: /
 
- Sitemap: http://dveamer.github.io/sitemap.xml
+ Sitemap: http://gottgam.github.io/sitemap.xml
