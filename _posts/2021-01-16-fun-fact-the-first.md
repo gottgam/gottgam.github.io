@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fun Fact 01"
+permalink: "/english"
 blurb: "Learning a prefix and a suffix through a fun fact"
 comments: true
 categories: [lifestyle]
