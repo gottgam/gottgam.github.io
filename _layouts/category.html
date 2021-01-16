@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  
-  {% assign categories_max = 0 %}
-    {% for category in site.categories %}
-      {% if category[1].size > categories_max %}
-        {% assign categories_max = category[1].size %}
-    {% endif %}
-  {% endfor %}
-  
-  <body>
-    {% include header.html %}
-    
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="categories">
-          <h1 class="page-heading">{{ page.title }}</h1>
-          {{ content }}
-          
+---
+layout: default
+---
+
           <u1 class = "posts-list">
             
             {% assign category = page.category | default: page.title %}
@@ -63,12 +47,3 @@
                 {% endfor %}
               {% endfor %}
           </p>-->
-        </div>
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-    {% include foot.html %}
-  </body>
-</html>
