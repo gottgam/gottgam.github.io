@@ -2,7 +2,6 @@
 layout: post
 title: "온전히, 집필만"
 categories: [lifestyle]
-sublink: /blog/lifestyle/thoughts-about-creative-writing
 ---
 
 오랜만에 굿노트 5를 키고 과거에 만든 폴더들을 죽 훑어보았다. 폴더들 중 하나가 이 짧은 비평문(이자 일기)을 쓰게 만들었다.<br /><br />
