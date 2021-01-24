@@ -2,6 +2,7 @@
 layout: post
 title: "An Ensemble from Tiny Circuit: Quantum Orchestra"
 categories: quantum-computing
+permalink: /quantum-computing/quantum-orchestra/
 ---
 
 Every object around the globe can make a piece of music. Not depend on organic matters or inorganic things. Even electric drills and *a sliver hammer* (yes, I’m a Beatles fan. If you want to dispute, call Paul or Ringo) can create remarkably well. As a writer, designer, and developer, I recommend you to put your ears at the side of a monitor or on a computer body, hear those squishing, ticking, and humming sound fully. It’s crucial to understand the implements and utensils you’re using, not because you have to be a superuser. It is, however, an invitation into its world jut within their rhythm of bursting hard drives or an inner device shifting its location.<br /><br />
