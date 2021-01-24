@@ -11,7 +11,7 @@ There is a simple example, which is called ‘Device Orchestra’. It’s a famo
 <br /><br />
 
 The reader will probably be asking: *why should anyone know all of this stuff? I’m just interested in quantum computing/computer science/electrical engineering. I’m out.* Well, because what I’m saying from now is intimately connected with the idea which I’d shown on __Qiskit Hackathon Global 2020__ . And this article is written for introducing it, sharing insights, along with my notion. This is a story of five Qiskit newbies who experience many tribulations and the priceless result during 24 hours. <br />
-[!img](https://miro.medium.com/max/1400/0*m7TjpZ9cG9kVLvVI "A Poster of Qiskit Hackathon Global 2020") <br /><br />
+![img](https://miro.medium.com/max/1400/0*m7TjpZ9cG9kVLvVI "A Poster of Qiskit Hackathon Global 2020") <br /><br />
 
 I, Rohit, Alan, Cynthia, and Quentin were trying to translate a quantum circuit into musical output. This brilliant concept initially came from Daniel, our mentor. He’d come up with an idea when he had thought about an old piano that takes sheet music and plays the song automatically. Every reader will agree with him. In lost childhood memories, everybody might imagine pieces of furniture sing you a lullaby or give you a morning call. That’s when I decided to grasp this suggestion and aim for it. As soon as after that, there’s one objective strike inside my head. Maybe we could turn each qubit into a performer. <br /><br />
 
@@ -33,7 +33,7 @@ And the extra issues out there. We had to make a presentation slide, kept debugg
 Anyway, the results were okay, and the time was up. We didn’t know the surprise was awaiting us. <br /><br />
 
 __We received the Community Choice Award on Qiskit Hackathon Global 2020!__ <br />
-[!img](https://media-exp1.licdn.com/dms/image/C5622AQH3KmJwOWM66A/feedshare-shrink_800-alternative/0/1610868211974?e=1614211200&v=beta&t=-mo_TLFv9peTb-9Wc5FHQ5qURdxnM5nBAstuVZBiYfA "The Arcyrilc Plaque for ME!") <br /><br />
+![img](https://media-exp1.licdn.com/dms/image/C5622AQH3KmJwOWM66A/feedshare-shrink_800-alternative/0/1610868211974?e=1614211200&v=beta&t=-mo_TLFv9peTb-9Wc5FHQ5qURdxnM5nBAstuVZBiYfA "The Arcyrilc Plaque for ME!") <br /><br />
 
 It sounded like a dream. This was the first Hackathon in my life. Before the first week of October, I’d never known what Hackathon means. I imagined Hackathon is a contest for the white hackers. Before August, I’d even gotten a zero information about quantum computing or IBM Qiskit.
 It was a miracle to us. Also, it becomes a meaningful reward for such a hard effort, teamwork, and improved knowledge. We have a right to take this award and have a duty to stimulate computational curiosity as students. This is hackathon’s design. <br /><br />
