@@ -2,6 +2,7 @@
 title: "Welcome to My Blog!"
 comments: true
 author_profile: true
+permalink: /lifestyle/first-post/
 categories: lifestyle
 ---
 
