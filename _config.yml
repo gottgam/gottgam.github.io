@@ -3,9 +3,9 @@
 
 title: Cameron Park's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  (Sueon)
+  (Suyon)
 baseurl: "" # the subpath of the site
-url: "https://sueonpark.github.io" # the base hostname & protocol for the site
+url: "https://suyonpark.github.io" # the base hostname & protocol for the site
 og_image: favicon.ico
 # google_analytics: "UA-121636368-3"
 
@@ -21,8 +21,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: me@suyeonpark.info
-      link: mailto:me@suyeonpark.info
+      value: me.suyonpark@gmail.com
+      link: mailto:me.suyonpark@gmail.com
     # - name: WeChat
       # value: YourWeChatUsername
       # link: "#"
@@ -35,7 +35,7 @@ footer:
     - name: LinkedIn
       link: http://linkedin.com/in/suyeonparkbb8
     - name: GitHub
-      link: http://github.com/sueonpark
+      link: http://github.com/suyonpark
     - name: Dribbble
       link: https://dribbble.com/rollingbb8
     # - name: RSS
