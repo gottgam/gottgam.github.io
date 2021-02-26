@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Home
+title: 
 slug: /
 ---
 
