@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Blog
-slug: /blog
+title: Home
+slug: /
 ---
 
 Design, IT, books, and films.<br />
