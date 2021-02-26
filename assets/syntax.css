@@ -1,5 +1,11 @@
-.highlight table td { padding: 5px; }
-.highlight table pre { margin: 0; }
+.highlight table td {
+  font-size: 15px;
+  padding: 1px 5px; 
+}
+.highlight table pre { 
+  padding: 8px 12px;
+  overflow-x: scroll;
+}
 .highlight .gh {
   color: #999999;
 }
