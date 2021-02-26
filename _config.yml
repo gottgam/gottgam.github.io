@@ -3,7 +3,7 @@
 
 title: Cameron Park's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  (Suyon)
+  (Suyon | 박수연)
 baseurl: "" # the subpath of the site
 url: "https://suyonpark.github.io" # the base hostname & protocol for the site
 og_image: favicon.ico
