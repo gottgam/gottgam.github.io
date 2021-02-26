@@ -19,8 +19,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: me.suyonpark@gmail.com
-      link: mailto:me.suyonpark@gmail.com
+      value: me@suyonpark.com
+      link: mailto:ne@suyonpark.com
     # - name: WeChat
       # value: YourWeChatUsername
       # link: "#"
@@ -31,7 +31,7 @@ footer:
     # - name: Facebook
       # link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: http://linkedin.com/in/suyeonparkbb8
+      link: http://linkedin.com/in/suyonpark
     - name: GitHub
       link: http://github.com/suyonpark
     - name: Dribbble
@@ -41,6 +41,7 @@ footer:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 sass:
     style: :compressed
 plugins:
