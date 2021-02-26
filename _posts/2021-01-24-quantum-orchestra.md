@@ -34,7 +34,7 @@ And the extra issues out there. We had to make a presentation slide, kept debugg
 Anyway, the results were okay, and the time was up. We didn’t know the surprise was awaiting us. <br /><br />
 
 __We received the Community Choice Award on Qiskit Hackathon Global 2020!__ <br />
-![img](https://media-exp1.licdn.com/dms/image/C5622AQH3KmJwOWM66A/feedshare-shrink_800-alternative/0/1610868211974?e=1614211200&v=beta&t=-mo_TLFv9peTb-9Wc5FHQ5qURdxnM5nBAstuVZBiYfA "The Arcyrilc Plaque for ME!") <br /><br />
+![img](https://media-exp1.licdn.com/dms/image/C5622AQH3KmJwOWM66A/feedshare-shrink_800/0/1610868211966?e=1617235200&v=beta&t=sVZRJ8AgYqk6405B33mvd3cHSUdmlovyKVH0wcWALio "The Arcyrilc Plaque for ME!") <br /><br />
 
 It sounded like a dream. This was the first Hackathon in my life. Before the first week of October, I’d never known what Hackathon means. I imagined Hackathon is a contest for the white hackers. Before August, I’d even gotten a zero information about quantum computing or IBM Qiskit.
 It was a miracle to us. Also, it becomes a meaningful reward for such a hard effort, teamwork, and improved knowledge. We have a right to take this award and have a duty to stimulate computational curiosity as students. This is hackathon’s design. <br /><br />
