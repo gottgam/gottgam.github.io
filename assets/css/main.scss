@@ -4,6 +4,16 @@
 
 @charset "utf-8";
 
+.header h2 {
+  font-size: 40px;
+  background: #fee1c3;
+  text-decoration: none;
+}
+
+.footer {
+  background: #697a6a;
+}
+
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
@@ -34,10 +44,3 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
-
-
-.header h2 {
-  font-size: 40px;
-  background: #fee1c3;
-  text-decoration: none;
-}
