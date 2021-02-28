@@ -14,13 +14,41 @@
   background: #697a6a;
 }
 
+h1 { 
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 23px; font-style: normal; font-variant: normal; 
+  font-weight: bold; line-height: 23px; 
+} 
+h3 { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 17px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 23px; 
+}
+p { 
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; 
+} 
+blockquote { 
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; 
+} 
+pre { 
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; 
+}
+
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
-$base-font-size: 16px;
+$base-font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+$base-font-size: 14px;
+$base-font-style: normal;
+$base-font-weight: 400;
+$bold-font-weight: bold;
+$h1-font-size: 23px;
+$h3-font-size: 17px;
+$blockquote-font-size: 17px;
+$pre-font-size: 11px;
 $small-font-size: $base-font-size * 0.875;
-$base-line-height: 1.9;
+$base-line-height: 23px;
 
 $spacing-unit: 32px;
 
