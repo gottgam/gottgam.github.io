@@ -8,15 +8,16 @@
 $base-url: "{{ site.baseurl }}";
 
 $base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
-$base-font-size: 14px;
+$base-font-size: 16px;
 $small-font-size: $base-font-size * 0.875;
-$base-line-height: 1.7;
+$base-line-height: 1.9;
 
-$spacing-unit: 30px;
+$spacing-unit: 32px;
 
-$text-color: #111;
-$background-color: #fdfdfd;
-$brand-color: #2a7ae2;
+$text-color: #191a22;
+$background-color: #fbfbf8;
+$header-bg-color: #fee1c3;
+$brand-color: #697a6a;
 
 $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
