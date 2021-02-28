@@ -4,17 +4,6 @@
 
 @charset "utf-8";
 
-.header h1 {
-  font-size: 40px;
-  background: #fee1c3;
-  text-decoration: none;
-}
-
-
-.footer {
-  background: #697a6a;
-}
-
 h1 { 
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 23px; font-style: normal; font-variant: normal; 
@@ -39,16 +28,15 @@ pre {
 
 // Our variables
 $base-url: "{{ site.baseurl }}";
-
 $base-font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-$base-font-size: 14px;
+$base-font-size: 24px;
 $base-font-style: normal;
 $base-font-weight: 400;
 $bold-font-weight: bold;
-$h1-font-size: 23px;
-$h3-font-size: 17px;
-$blockquote-font-size: 17px;
-$pre-font-size: 11px;
+$h1-font-size: 50px;
+$h3-font-size: 27px;
+$blockquote-font-size: 27px;
+$pre-font-size: 21px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 23px;
 
@@ -57,6 +45,7 @@ $spacing-unit: 32px;
 $text-color: #191a22;
 $background-color: #fbfbf8;
 $header-bg-color: #fee1c3;
+$footer-bg-color: #d89cb0
 $brand-color: #697a6a;
 
 $grey-color: #828282;
