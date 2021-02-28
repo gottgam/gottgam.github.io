@@ -1,16 +1,16 @@
 .blog-post-list {
   .blog-post-date {
     width: 6em;
-    color: #777;
+    color: #191a22;
     display: block;
     float: left;
 
     @include media-query($on-mobile) {
       display: block;
       float: none;
-      color: #333;
-      font-size: 12px;
-      margin-top: 14px;
+      color: #191a22;
+      font-size: 14px;
+      margin-top: 12px;
     }
   }
 
