@@ -1,12 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Boiiing
+theme: minima
+title: Cameron Park
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of the site
 url: "https://suyonpark.github.io" # the base hostname & protocol for the site
-og_image: favicon.ico
-# google_analytics: "UA-121636368-3"
 
 header:
   pages:
