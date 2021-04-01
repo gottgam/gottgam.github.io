@@ -61,3 +61,5 @@ exclude:
 
 # Used for defeating caching
 version: 1
+
+theme: jekyll-theme-minimal
